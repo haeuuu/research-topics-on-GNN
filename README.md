@@ -4,6 +4,7 @@
   
 ## **Increasing diversity / Reducing popularity bias**
 * [div2vec: Diversity-Emphasized Node Embedding](https://arxiv.org/pdf/2009.09588.pdf)
+* [WWW'21 / DGCN: Diversified Recommendation with Graph Convolutional Networks](https://dl.acm.org/doi/pdf/10.1145/3442381.3449835?casa_token=f_TqixYJ_6oAAAAA:_k4juCo0Im0_2Jz5LWhWqQlRe7AGEq1tRKMxVENqUe7fOev-CsdNY7yW1qi0QN3G_iVO0upFm_kkzw)
   
 </br>
   
